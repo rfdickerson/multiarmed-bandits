@@ -1,0 +1,8 @@
+name: bandits
+
+dependencies:
+	- scikit-learn
+	- numpy
+	- pandas
+	- python
+
